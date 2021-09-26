@@ -1,0 +1,16 @@
+D:\Documentos Vitor\Documento\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade de17-09-2021\CicloEventos\bin\Debug\net5.0\CicloEventos.exe
+D:\Documentos Vitor\Documento\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade de17-09-2021\CicloEventos\bin\Debug\net5.0\CicloEventos.deps.json
+D:\Documentos Vitor\Documento\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade de17-09-2021\CicloEventos\bin\Debug\net5.0\CicloEventos.runtimeconfig.json
+D:\Documentos Vitor\Documento\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade de17-09-2021\CicloEventos\bin\Debug\net5.0\CicloEventos.runtimeconfig.dev.json
+D:\Documentos Vitor\Documento\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade de17-09-2021\CicloEventos\bin\Debug\net5.0\CicloEventos.dll
+D:\Documentos Vitor\Documento\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade de17-09-2021\CicloEventos\bin\Debug\net5.0\ref\CicloEventos.dll
+D:\Documentos Vitor\Documento\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade de17-09-2021\CicloEventos\bin\Debug\net5.0\CicloEventos.pdb
+D:\Documentos Vitor\Documento\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade de17-09-2021\CicloEventos\obj\Debug\net5.0\CicloEventos.csproj.AssemblyReference.cache
+D:\Documentos Vitor\Documento\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade de17-09-2021\CicloEventos\obj\Debug\net5.0\CicloEventos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos Vitor\Documento\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade de17-09-2021\CicloEventos\obj\Debug\net5.0\CicloEventos.AssemblyInfoInputs.cache
+D:\Documentos Vitor\Documento\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade de17-09-2021\CicloEventos\obj\Debug\net5.0\CicloEventos.AssemblyInfo.cs
+D:\Documentos Vitor\Documento\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade de17-09-2021\CicloEventos\obj\Debug\net5.0\CicloEventos.csproj.CoreCompileInputs.cache
+D:\Documentos Vitor\Documento\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade de17-09-2021\CicloEventos\obj\Debug\net5.0\CicloEventos.dll
+D:\Documentos Vitor\Documento\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade de17-09-2021\CicloEventos\obj\Debug\net5.0\ref\CicloEventos.dll
+D:\Documentos Vitor\Documento\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade de17-09-2021\CicloEventos\obj\Debug\net5.0\CicloEventos.pdb
+D:\Documentos Vitor\Documento\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade de17-09-2021\CicloEventos\obj\Debug\net5.0\CicloEventos.genruntimeconfig.cache
