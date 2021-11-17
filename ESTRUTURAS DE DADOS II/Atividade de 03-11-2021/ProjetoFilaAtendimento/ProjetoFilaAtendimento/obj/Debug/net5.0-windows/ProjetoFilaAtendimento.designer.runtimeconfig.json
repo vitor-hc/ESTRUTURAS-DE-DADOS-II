@@ -1,0 +1,17 @@
+{
+  "runtimeOptions": {
+    "tfm": "net5.0",
+    "framework": {
+      "name": "Microsoft.WindowsDesktop.App",
+      "version": "5.0.0"
+    },
+    "additionalProbingPaths": [
+      "C:\\Users\\Vitor Hugo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Vitor Hugo\\.nuget\\packages",
+      "D:\\Shared Visual2019\\NuGetPackages"
+    ],
+    "configProperties": {
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}
