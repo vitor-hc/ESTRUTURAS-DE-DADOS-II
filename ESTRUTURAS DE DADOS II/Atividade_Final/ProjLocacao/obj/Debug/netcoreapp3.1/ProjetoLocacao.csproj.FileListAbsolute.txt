@@ -1,0 +1,27 @@
+D:\Download\Ed1I4TpFinal-main\Ed1I4TpFinal-main\ProjLocacao\ProjLocacao\bin\Debug\netcoreapp3.1\ProjetoLocacao.exe
+D:\Download\Ed1I4TpFinal-main\Ed1I4TpFinal-main\ProjLocacao\ProjLocacao\bin\Debug\netcoreapp3.1\ProjetoLocacao.deps.json
+D:\Download\Ed1I4TpFinal-main\Ed1I4TpFinal-main\ProjLocacao\ProjLocacao\bin\Debug\netcoreapp3.1\ProjetoLocacao.runtimeconfig.json
+D:\Download\Ed1I4TpFinal-main\Ed1I4TpFinal-main\ProjLocacao\ProjLocacao\bin\Debug\netcoreapp3.1\ProjetoLocacao.runtimeconfig.dev.json
+D:\Download\Ed1I4TpFinal-main\Ed1I4TpFinal-main\ProjLocacao\ProjLocacao\bin\Debug\netcoreapp3.1\ProjetoLocacao.dll
+D:\Download\Ed1I4TpFinal-main\Ed1I4TpFinal-main\ProjLocacao\ProjLocacao\bin\Debug\netcoreapp3.1\ProjetoLocacao.pdb
+D:\Download\Ed1I4TpFinal-main\Ed1I4TpFinal-main\ProjLocacao\ProjLocacao\obj\Debug\netcoreapp3.1\ProjetoLocacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Ed1I4TpFinal-main\Ed1I4TpFinal-main\ProjLocacao\ProjLocacao\obj\Debug\netcoreapp3.1\ProjetoLocacao.AssemblyInfoInputs.cache
+D:\Download\Ed1I4TpFinal-main\Ed1I4TpFinal-main\ProjLocacao\ProjLocacao\obj\Debug\netcoreapp3.1\ProjetoLocacao.AssemblyInfo.cs
+D:\Download\Ed1I4TpFinal-main\Ed1I4TpFinal-main\ProjLocacao\ProjLocacao\obj\Debug\netcoreapp3.1\ProjetoLocacao.csproj.CoreCompileInputs.cache
+D:\Download\Ed1I4TpFinal-main\Ed1I4TpFinal-main\ProjLocacao\ProjLocacao\obj\Debug\netcoreapp3.1\ProjetoLocacao.dll
+D:\Download\Ed1I4TpFinal-main\Ed1I4TpFinal-main\ProjLocacao\ProjLocacao\obj\Debug\netcoreapp3.1\ProjetoLocacao.pdb
+D:\Download\Ed1I4TpFinal-main\Ed1I4TpFinal-main\ProjLocacao\ProjLocacao\obj\Debug\netcoreapp3.1\ProjetoLocacao.genruntimeconfig.cache
+E:\Faculdade\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade_Final\ProjLocacao\bin\Debug\netcoreapp3.1\ProjetoLocacao.exe
+E:\Faculdade\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade_Final\ProjLocacao\bin\Debug\netcoreapp3.1\ProjetoLocacao.deps.json
+E:\Faculdade\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade_Final\ProjLocacao\bin\Debug\netcoreapp3.1\ProjetoLocacao.runtimeconfig.json
+E:\Faculdade\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade_Final\ProjLocacao\bin\Debug\netcoreapp3.1\ProjetoLocacao.runtimeconfig.dev.json
+E:\Faculdade\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade_Final\ProjLocacao\bin\Debug\netcoreapp3.1\ProjetoLocacao.dll
+E:\Faculdade\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade_Final\ProjLocacao\bin\Debug\netcoreapp3.1\ProjetoLocacao.pdb
+E:\Faculdade\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade_Final\ProjLocacao\obj\Debug\netcoreapp3.1\ProjetoLocacao.csproj.AssemblyReference.cache
+E:\Faculdade\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade_Final\ProjLocacao\obj\Debug\netcoreapp3.1\ProjetoLocacao.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faculdade\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade_Final\ProjLocacao\obj\Debug\netcoreapp3.1\ProjetoLocacao.AssemblyInfoInputs.cache
+E:\Faculdade\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade_Final\ProjLocacao\obj\Debug\netcoreapp3.1\ProjetoLocacao.AssemblyInfo.cs
+E:\Faculdade\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade_Final\ProjLocacao\obj\Debug\netcoreapp3.1\ProjetoLocacao.csproj.CoreCompileInputs.cache
+E:\Faculdade\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade_Final\ProjLocacao\obj\Debug\netcoreapp3.1\ProjetoLocacao.dll
+E:\Faculdade\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade_Final\ProjLocacao\obj\Debug\netcoreapp3.1\ProjetoLocacao.pdb
+E:\Faculdade\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade_Final\ProjLocacao\obj\Debug\netcoreapp3.1\ProjetoLocacao.genruntimeconfig.cache
