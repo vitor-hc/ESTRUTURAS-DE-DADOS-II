@@ -1,0 +1,14 @@
+C:\Users\dougd\source\repos\TransportePilha\TransportePilha\bin\Debug\TransportePilha.exe.config
+C:\Users\dougd\source\repos\TransportePilha\TransportePilha\bin\Debug\TransportePilha.exe
+C:\Users\dougd\source\repos\TransportePilha\TransportePilha\bin\Debug\TransportePilha.pdb
+C:\Users\dougd\source\repos\TransportePilha\TransportePilha\obj\Debug\TransportePilha.csprojAssemblyReference.cache
+C:\Users\dougd\source\repos\TransportePilha\TransportePilha\obj\Debug\TransportePilha.csproj.CoreCompileInputs.cache
+C:\Users\dougd\source\repos\TransportePilha\TransportePilha\obj\Debug\TransportePilha.exe
+C:\Users\dougd\source\repos\TransportePilha\TransportePilha\obj\Debug\TransportePilha.pdb
+E:\Faculdade\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade de15-12-2021\TransportePilha\TransportePilha\obj\Debug\TransportePilha.csproj.AssemblyReference.cache
+E:\Faculdade\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade de15-12-2021\TransportePilha\TransportePilha\obj\Debug\TransportePilha.csproj.CoreCompileInputs.cache
+E:\Faculdade\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade de15-12-2021\TransportePilha\TransportePilha\obj\Debug\TransportePilha.exe
+E:\Faculdade\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade de15-12-2021\TransportePilha\TransportePilha\obj\Debug\TransportePilha.pdb
+E:\Faculdade\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade de15-12-2021\TransportePilha\TransportePilha\bin\Debug\TransportePilha.exe.config
+E:\Faculdade\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade de15-12-2021\TransportePilha\TransportePilha\bin\Debug\TransportePilha.exe
+E:\Faculdade\ADS2020-1\IFSP-On\4Semestre\ESTRUTURAS DE DADOS II\ESTRUTURAS DE DADOS II\Atividade de15-12-2021\TransportePilha\TransportePilha\bin\Debug\TransportePilha.pdb
